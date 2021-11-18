@@ -1,7 +1,7 @@
+import os
 from flask import Flask, render_template, request
 from werkzeug.utils import secure_filename
 from gcloud import storage
-import os
 
 app = Flask(__name__, template_folder=".")
 os.environ["GCLOUD_PROJECT"] = "cloud-hw4-332302"
