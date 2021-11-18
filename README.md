@@ -1,6 +1,10 @@
 ## Hadoop MapReduce application to find the maximum temperature for every day
 ##### Author: Saurabh Pathak (spathak2@andrew.cmu.edu)
 
+### Extra Credit Demo:
+Video Walkthrough and file upload: https://youtu.be/HAJMvFJWPV8
+Uploading just project data files: https://youtu.be/aN0UXpkLofU
+
 ### Output Results
 1. Temperature Data present in HDFS
 
